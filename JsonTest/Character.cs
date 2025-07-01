@@ -12,3 +12,8 @@ using System.Threading.Tasks;
     public int MaxHP { get; set; }
     //여러 캐릭터를 다루려면 리스트로
 }
+public class UserData
+{
+    public int Level { get; set; }
+    public int Gold { get; set; }
+}

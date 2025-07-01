@@ -9,9 +9,24 @@ namespace JsonTest
     {
         static void Main(string[] args)
         {
-            string path = "characters.json";
+            var userData = new List<UserData> // userdata를 json 파일로 넘기는 예제
+            {
+                new UserData { Level = 10, Gold = 1000}
+            };
 
-            List<Character>? characters = null;
+            string jjson = JsonConvert.SerializeObject(userData, Formatting.Indented);
+            //객체를 json 문자열로 직렬화
+
+            File.WriteAllText("UserData.json", jjson);
+
+            foreach (var c in userData)
+            {
+                Console.WriteLine($"레벨: {c.Level}, 골드: {c.Gold} G");
+            }
+
+            string path = "characters.json";  //json 파일에서 캐릭터 데이터를 c#으로 불러오는 예제
+
+            List<Character>? characters = null; 
             try
             {
                 string json = File.ReadAllText(path);

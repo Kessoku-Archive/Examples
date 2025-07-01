@@ -16,3 +16,4 @@ C:\Users\조성환\source\repos\JsonTest\JsonTest\obj\Debug\net8.0\JsonTest.pdb
 C:\Users\조성환\source\repos\JsonTest\JsonTest\obj\Debug\net8.0\JsonTest.genruntimeconfig.cache
 C:\Users\조성환\source\repos\JsonTest\JsonTest\obj\Debug\net8.0\ref\JsonTest.dll
 C:\Users\조성환\source\repos\JsonTest\JsonTest\bin\Debug\net8.0\characters.json
+C:\Users\조성환\source\repos\JsonTest\JsonTest\obj\Debug\net8.0\JsonTest.sourcelink.json
