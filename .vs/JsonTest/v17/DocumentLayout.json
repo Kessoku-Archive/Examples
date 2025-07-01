@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC870\uC131\uD658\\source\\repos\\JsonTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{780C2D59-306A-448D-9E62-C273DD6324E2}|JsonTest\\JsonTest.csproj|c:\\users\\\uC870\uC131\uD658\\source\\repos\\jsontest\\jsontest\\jsontest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{780C2D59-306A-448D-9E62-C273DD6324E2}|JsonTest\\JsonTest.csproj|solutionrelative:jsontest\\jsontest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780C2D59-306A-448D-9E62-C273DD6324E2}|JsonTest\\JsonTest.csproj|c:\\users\\\uC870\uC131\uD658\\source\\repos\\jsontest\\jsontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780C2D59-306A-448D-9E62-C273DD6324E2}|JsonTest\\JsonTest.csproj|solutionrelative:jsontest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780C2D59-306A-448D-9E62-C273DD6324E2}|JsonTest\\JsonTest.csproj|c:\\users\\\uC870\uC131\uD658\\source\\repos\\jsontest\\jsontest\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{780C2D59-306A-448D-9E62-C273DD6324E2}|JsonTest\\JsonTest.csproj|solutionrelative:jsontest\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{780C2D59-306A-448D-9E62-C273DD6324E2}|JsonTest\\JsonTest.csproj|c:\\users\\\uC870\uC131\uD658\\source\\repos\\jsontest\\jsontest\\characters.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{780C2D59-306A-448D-9E62-C273DD6324E2}|JsonTest\\JsonTest.csproj|solutionrelative:jsontest\\characters.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JsonTest",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC131\uD658\\source\\repos\\JsonTest\\JsonTest\\JsonTest.csproj",
+              "RelativeDocumentMoniker": "JsonTest\\JsonTest.csproj",
+              "ToolTip": "C:\\Users\\\uC870\uC131\uD658\\source\\repos\\JsonTest\\JsonTest\\JsonTest.csproj",
+              "RelativeToolTip": "JsonTest\\JsonTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-01T05:39:36.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC131\uD658\\source\\repos\\JsonTest\\JsonTest\\Character.cs",
+              "RelativeDocumentMoniker": "JsonTest\\Character.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC131\uD658\\source\\repos\\JsonTest\\JsonTest\\Character.cs",
+              "RelativeToolTip": "JsonTest\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:40:52.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "characters.json",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC131\uD658\\source\\repos\\JsonTest\\JsonTest\\characters.json",
+              "RelativeDocumentMoniker": "JsonTest\\characters.json",
+              "ToolTip": "C:\\Users\\\uC870\uC131\uD658\\source\\repos\\JsonTest\\JsonTest\\characters.json",
+              "RelativeToolTip": "JsonTest\\characters.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T05:39:44.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC131\uD658\\source\\repos\\JsonTest\\JsonTest\\Program.cs",
+              "RelativeDocumentMoniker": "JsonTest\\Program.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC131\uD658\\source\\repos\\JsonTest\\JsonTest\\Program.cs",
+              "RelativeToolTip": "JsonTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:34:40.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
